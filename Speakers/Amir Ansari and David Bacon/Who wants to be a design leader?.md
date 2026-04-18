@@ -8,4 +8,4 @@ We'll be borrowing from the 'who wants to be a millionaire format' and we will s
   
 Get ready to have some fun and hopefully learn a thing or two.
 
-[[The Craft Dividend]]
+[[The Craft Dividend]] 
