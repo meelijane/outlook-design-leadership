@@ -1,5 +1,7 @@
 [[Amir Ansari and David Bacon - Bios]]
 
+Presentation length: 45 mins
+
 Since 2019 Amir and David have been catching up for what they term 'shit sandwiches', exchanging professional and personal trials and successes, sharing sympathy and occasional advice. Should I leave my job; how do I handle a difficult report; how do I get buy in; and do you know a good osteo you could recommend, my back is killing me.  
   
 We've have turned our catch up sessions into a live, high stakes gameshow for the design community's amusement.  

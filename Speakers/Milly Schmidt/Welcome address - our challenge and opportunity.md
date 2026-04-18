@@ -1,3 +1,6 @@
+[[Milly Schmidt - bio]]
+Presentation length: 15 mins
+
 ## Resilient leadership
 - Leaders in industry now have led teams through COVID lockdowns, actual wars, terrorist attacks and multiple rounds of disruption in tooling
 - Personal stories

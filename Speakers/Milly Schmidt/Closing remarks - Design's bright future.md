@@ -1,4 +1,6 @@
 [[Design's bright future]]
+[[Milly Schmidt]]
+Presentation length: 10 mins
 
 ## Summary of talks and themes
 - [[Design's bright future]]

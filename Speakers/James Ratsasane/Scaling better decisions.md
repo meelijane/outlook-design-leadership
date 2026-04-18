@@ -1,5 +1,7 @@
 [[James Ratsasane - Bio]]
 
+Presentation length: 20 minutes
+
 How do you scale the quality of design decisions when you're no longer in the room?  
   
 In design leadership, the decisions you're responsible for shift from execution and experience quality to team capability, trade-offs, and investment scale. The challenge becomes creating an environment where good design decisions happen consistently without you.  
