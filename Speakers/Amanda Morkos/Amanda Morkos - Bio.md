@@ -1,0 +1,3 @@
+Amanda is a product and design all-rounder, equally passionate about crafting great experiences as she is about leading and delivering them. Starting her career in graphic design, she’s gone on to help organisations make braver, more user-led decisions—shaping everything from the triple j app at the ABC, to the journey for kids starting school, and digital strategy at SBS.  
+  
+Today, she’s the Director of Design at TAFE NSW, where she leads a talented team and is helping transform how students and teachers experience education.

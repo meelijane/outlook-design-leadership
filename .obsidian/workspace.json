@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "c29c60daaddf1987",
+    "type": "split",
+    "children": [
+      {
+        "id": "39fb1a39472a7ab2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c96e66c5f1323ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Speakers/Amanda Morkos/Amanda Morkos - Bio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Amanda Morkos - Bio"
+            }
+          },
+          {
+            "id": "90b884534e37283e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Event info/Runsheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Runsheet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df1320e421cb108e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e85e3a7829e0a251",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86c7cd885c2d4157",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2c0e7fc18ffd70af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "37703c60c183d93c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ebb4647039c58d3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3fbe5bd8bea3135",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "151d45f899aef1e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Speakers/Amanda Morkos/Amanda Morkos - Bio.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Amanda Morkos - Bio"
+            }
+          },
+          {
+            "id": "8f54b50fb6e42074",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Speakers/Amanda Morkos/Amanda Morkos - Bio.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Amanda Morkos - Bio"
+            }
+          },
+          {
+            "id": "4cf23c6a4f615630",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "96e44584e91bf0b4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3ffccd11b1190f84",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Speakers/Amanda Morkos/Amanda Morkos - Bio.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Amanda Morkos - Bio"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9c96e66c5f1323ba",
+  "lastOpenFiles": [
+    "Event info/Runsheet.md",
+    "Speakers/Chris Newski/Chris Newski - Bio.md",
+    "Event info/Things to expect on the day.md",
+    "Speakers/Milly Schmidt/Milly Schmidt - bio.md",
+    "Speakers/Milly Schmidt/Closing remarks - Design's bright future.md",
+    "Speakers/Milly Schmidt/Opening remarks - our challenge and opportunity.md",
+    "Crew/Milly Schmidt.md",
+    "Speakers/Sadia Mir/Sadia Mir - Talk outline.md",
+    "Andrew Hogan.md",
+    "Event info/Event details.md",
+    "Crew/Elaine Tan.md",
+    "Crew/Grant Show.md",
+    "Crew/Leeling Bristow.md",
+    "Crew/Mickey Rummery.md",
+    "Crew/Trudi Boatwright.md",
+    "Event info/Roles and responsibilities.md",
+    "Crew/Gazelle Eghbali.md",
+    "Crew/Justine Belda.md",
+    "Crew",
+    "Event info",
+    "Conference themes/The Craft Dividend.md",
+    "Conference themes/Pathways and progression.md",
+    "Conference themes/Design's bright future.md",
+    "Speakers/Andrew Hogan/Andrew Hogan - Talk outline.md",
+    "Speakers/Milly Schmidt",
+    "Speakers/James Ratsasane/James Ratsasane - Talk outline.md",
+    "Speakers/Jing Shen/Jing Shen - Talk outline.md",
+    "Speakers/Rosie Mills/Rosie Mills - Talk outline.md",
+    "Speakers/Rosie Mills/Rosie Mills - Bio.md",
+    "Speakers/Jing Shen",
+    "Speakers/Chris Newski",
+    "Speakers/James Ratsasane/Untitled",
+    "Speakers/James Ratsasane",
+    "Speakers/Andrew Hogan",
+    "Conference themes",
+    "Speakers/Rosie Mills"
+  ]
+}

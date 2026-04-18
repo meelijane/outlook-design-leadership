@@ -1,0 +1,1 @@
+Rosie Mills heads up the Design & Product team at Origin Energy. Passionate about solving messy problems, she has led teams across government, finance and utilities to deliver customer-centred experiences at scale. She currently works with Australia’s largest energy retailer to support people through the energy transition — making energy simpler, fairer, and easier to understand.

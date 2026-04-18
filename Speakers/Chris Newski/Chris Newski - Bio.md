@@ -1,0 +1,1 @@
+I’m Christian but everyone calls me Chris, and I’m Product Design Manager at Stake (Easygo), with close to 20 years’ experience in design. I’ve been based in Australia for the past 14 years, originally from Venezuela with Polish background. I’m father of two beautiful girls.

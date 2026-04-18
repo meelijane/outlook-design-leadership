@@ -1,0 +1,1 @@
+As our discipline evolves and we move away from the same old tools, templates, and frameworks, design is rediscovering its identity. We'll finish the day looking optimistically to the future, discussing what excites us most about where design is heading and what we can't wait to get our hands on.

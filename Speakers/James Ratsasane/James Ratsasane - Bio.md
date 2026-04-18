@@ -1,0 +1,3 @@
+James is a Product & Design leader dedicated to creating thoughtful, beautiful digital products that resonate with both customers and brands. As Head of Digital Product Design at MECCA, he works as part of the digital leadership team to shape digital strategy and lead teams delivering web and app experiences that drive growth and connected omnichannel journeys at scale.  
+  
+Previously, James led Global Product Experience & Service Design at Aēsop, where he helped translate the brand's distinctive in-store sensibility into award-winning digital and service experiences across global markets. As a designer, his work sits at the intersection of craft, systems thinking, and commercial clarity. Outside of work, he enjoys making music.

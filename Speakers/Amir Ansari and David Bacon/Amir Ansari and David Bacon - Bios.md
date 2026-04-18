@@ -1,0 +1,5 @@
+**David bio**  
+After graduating from Monash with a Bachelor of Science, David worked as a penguin keeper in England which somehow lead to a career spanning marketing, behaviour change, innovation and human-centred design. David has experience delivering digital products and services in financial services, healthcare, retail, government. He has the goal of weaving humanity into technology and still dreams about penguins.  
+  
+**Amir bio**  
+With over 25 years’ of experience in the field of design and design leadership, Amir has worked across the private and public sectors, in-house and agency, managing design practitioners and leaders to build long-lasting and impactful products and services. Amir is passionate about democratising the craft of design and sharing my learnings - doing it with a smile and a hug.

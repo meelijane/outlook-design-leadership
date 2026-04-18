@@ -1,0 +1,32 @@
+
+|                |               |           |                                                                                                                                                                                         |             |     |
+| -------------- | ------------- | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --- |
+| **_START_**    | **_END_**     | **_DUR_** | **_DETAILS_**                                                                                                                                                                           | **_NOTES_** |     |
+| **_8.00AM_**   | **_8.50AM_**  | **_60m_** | **_REGISTRATION AND NETWORKING_**                                                                                                                                                       |             |     |
+| **_8.50AM_**   | **_9.00AM_**  | **_10m_** | Wrangle attendees to seat                                                                                                                                                               |             |     |
+| **_9.00AM_**   | **_9.10AM_**  | **_10m_** | **_Welcome address — [[Milly Schmidt]], Design Manager, Atlassian_**                                                                                                                    |             |     |
+| **_9.10AM_**   | **_9.30AM_**  | **_20m_** | **_There’s never been a better time to design — [[Andrew Hogan - Bio]], Head of Insights, Figma_**                                                                                      |             |     |
+| **_9.30AM_**   | **_9.50AM_**  | **_20m_** | **_Scaling better decisions — [[James Ratsasane - Bio]], Head of Digital Product Design, MECCA_**                                                                                       |             |     |
+| **_9.50AM_**   | **_10.40AM_** | **_50m_** | Roundtable 1 – 40 mins discussion on presentations, 10 m on playback                                                                                                                    |             |     |
+| **_10.40AM_**  | **_11.10AM_** | **_30m_** | **_MORNING TEA_**                                                                                                                                                                       |             |     |
+| **_11.10 AM_** | **_11.30AM_** | **_20m_** | **_Quiet, consistent design progress — [[Jing Shen - Bio]], Assoc. Director, Service Design, IP Australia_**                                                                            |             |     |
+| **_11.30AM_**  | **_11.50AM_** | **_20m_** | **_Beyond design systems: Leadership practices that scale excellence — [[Chris Newski - Bio]], Product Design Manager, Easygo_**                                                        |             |     |
+| **_11.50AM_**  | **_12.10PM_** | **_20m_** | **_Brave new world? Mindsets for modern designers — [[Rosie Mills - Bio]], Head of Experience Design & Product_**                                                                       |             |     |
+| **_12.10PM_**  | **_1.00AM_**  | **_50m_** | Roundtable 2 – 40 mins discussion on presentations, 10 m on playback                                                                                                                    |             |     |
+| **_1.00M_**    | **_2.00PM_**  | **_60m_** | **_LUNCH_**                                                                                                                                                                             |             |     |
+| **_2.00PM_**   | **_2.45PM_**  | **_45m_** | **Who wants to be a design leader — David Bacon, Experience Design Manager, CBUS Super; Amir Ansari, Head of Human Centred Design, SRO Victoria* [[Amir Ansari and David Bacon - Bios]] |             |     |
+| **_2.45PM_**   | **_3.10PM_**  | **_25m_** | **The four pivots: What AI demands of design leaders — [[Sadia Mir - Bio]], Head of Design, Data61, CSIRO**                                                                             |             |     |
+| **_3.10 PM_**  | **_3.40PM_**  | **_30m_** | **_AFTERNOON TEA_**                                                                                                                                                                     |             |     |
+| **_3.40PM_**   | **_4.05PM_**  | **_25m_** | ***Steering an institution — [[Amanda Morkos - Bio]], Director of Design, TAFE NSW***                                                                                                   |             |     |
+| **_4.05PM_**   | **_4.15PM_**  | **_10m_** | ***Design's bright future - [[Milly Schmidt - bio]], Design Manager, Atlassian***                                                                                                       |             |     |
+| **_4.15 PM_**  | **_5.00 PM_** | **_45m_** | Roundtable 3 – 40m discussion on presentations, 10m on playback.                                                                                                                        |             |     |
+| **_5.00M_**    | **_5.10PM_**  | **_10m_** | **_SOCIAL WRAP-UP_**                                                                                                                                                                    |             |     |
+| **_5.10PM_**   | **_6.00PM_**  | **_50m_** | **_EVENT CONCLUDES_**                                                                                                                                                                   |             |     |
+
+  
+
+|                                 |                                                   |
+| ------------------------------- | ------------------------------------------------- |
+| [[Milly Schmidt]] - MC          | **[[Mickey Rummery]] - On the day production._**  |
+| [[Leeling Bristow]] - Volunteer | **[[Trudi Boatwright]] — Presenter management._** |
+| [[Gazelle Eghbali]] - Volunteer | [[Justine Belda]] - Volunteer                     |
