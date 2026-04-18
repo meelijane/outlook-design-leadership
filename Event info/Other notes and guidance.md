@@ -37,7 +37,13 @@ More intentional and inclusive with our language, as not everyone can speak.
 - Industrial clickers provided, headset mics
 - Bathroom access nearby for costume changes (Amir/David, Amanda with inflatable)
 - Dress rehearsal location at Venue (venue evening before if available, otherwise Grant’s city apartment)
-    
+
+## How the tables work
+
+We change people up at breaks; each attendees' laynard will have 3 table nos on it. This allows for mixing of ideas. They will need to be directed to change tables according to their lanyards.
+
+
+
 ## Action Items
 - All presenters: Submit slides through portal this week
 - [[Grant Show]]: Send Acknowledgment of Country examples to Andrew via Slack
